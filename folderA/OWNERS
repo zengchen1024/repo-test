@@ -1,3 +1,7 @@
 approvers:
 - ouchengle
-- liuqi469227928
+files:
+  "\\.go$":
+    approvers:
+    - xwzqmxx
+    - georgecao
