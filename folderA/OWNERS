@@ -1,0 +1,7 @@
+approvers:
+- ouchengle
+files:
+  "\\.go$":
+    approvers:
+    - xwzqmxx
+    - georgecao
