@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "ObjectId(\"600a77fb044c7a17d07250f1\")",
+    "link_id": "gitee_openeuler-1611298811283968340",
+    "link_status": "ready"
+  },
+  {
+    "_id": "ObjectId(\"60346a10044c7a17d012f86d\")",
+    "link_id": "gitee_opengauss-1614047760000855378",
+    "link_status": "ready"
+  },
+  {
+    "_id": "ObjectId(\"6036103b044c7a17d03776bd\")",
+    "link_id": "gitee_mindspore-1614155835277678289",
+    "link_status": "ready"
+  },
+  {
+    "_id": "ObjectId(\"60389cde044c7a17d06ff828\")",
+    "link_id": "gitee_openlookeng-1614322910578209320",
+    "link_status": "ready"
+  },
+  {
+    "_id": "ObjectId(\"60599a00044c7a17d04baaf6\")",
+    "link_status": "ready",
+    "link_id": "github_Ascend-1616484864146975484"
+  },
+  {
+    "_id": "ObjectId(\"6062d07b044c7a17d01d010f\")",
+    "link_id": "gitee_test-oepkgs-cla-1617088635967089780",
+    "link_status": "ready"
+  },
+  {
+    "_id": "ObjectId(\"609cc62b044c7a17d0a0e0d3\")",
+    "link_status": "ready",
+    "link_id": "gitee_edahelper-1620887083478580559"
+  },
+  {
+    "_id": "ObjectId(\"60bdef3d044c7a17d0c092dc\")",
+    "link_id": "github_kunpengcompute-1623060284995657822",
+    "link_status": "ready"
+  }
+]
